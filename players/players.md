@@ -1,9 +1,9 @@
 ### Players
-+ Exsavitator
-+ Reasonless
-+ SamMan_
-+ Creeperswizard
-+ Mismyla
-+ CheaterTim
-+ MineOrDie_
-+ N_Enders
++ [Exsavitator](Exsavitator.md)
++ [Reasonless](Reasonless.md)
++ [SamMan_](SamMan.md)
++ [Creeperswizard](Creeperswizard.md)
++ [Mismyla](Mismyla.md)
++ [CheaterTim](CheaterTim.md)
++ [MineOrDie_](MineOrDie.md)
++ [N_Enders](N_Enders.md)
